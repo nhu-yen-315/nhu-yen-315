@@ -1,7 +1,7 @@
 # Welcome to my Github 👋
 
 ## 💫 About Me:
-💁‍♀️ I'm the final-year student of Business Administration major in Vietnamese-German University.<br>🔎 I'm looking for a Data Analyst position.<br>⏰ I can start working from 9/2025.<br>🎯 I have learnt analytical tools: Excel, SQL, PowerBI, Python.<br>💗 Thank you for visiting my profile!
+💁‍♀️ I'm the fresh undegraduate of Business Administration major in Vietnamese-German University.<br>🔎 I'm looking for a Data Analyst position.<br>⏰ I can start working from 9/2025.<br>🎯 I have learnt analytical tools: Excel, SQL, PowerBI, Python.<br>💗 Thank you for visiting my profile!
 
 
 ## 🌐 How to reach me:
