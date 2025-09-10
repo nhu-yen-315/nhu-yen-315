@@ -11,7 +11,7 @@
 
 ## 🔧 Projects
 
-- [🚀 Analyze web performance, user engagement and sales performance for an e-commerce website with SQL](https://github.com/nhu-yen-315/Analyze-web-performance-user-engagement-and-sales-performance-for-an-e-commerce-website-with-SQL-)  
+### [🚀 Analyze web performance, user engagement and sales performance for an e-commerce website with SQL](https://github.com/nhu-yen-315/Analyze-web-performance-user-engagement-and-sales-performance-for-an-e-commerce-website-with-SQL-)  
   This project analyzes data from an e-commerce website published in Google BigQuery. Insights into website performance, user engagement and sales performance are extracted using SQL.
 
 
