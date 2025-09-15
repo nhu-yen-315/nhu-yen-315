@@ -14,7 +14,7 @@
 ### [🚀 Analyze web performance, user engagement and sales performance for an e-commerce website with SQL](https://github.com/nhu-yen-315/Analyze-web-performance-user-engagement-and-sales-performance-for-an-e-commerce-website-with-SQL-)  
   This project analyzes data from an e-commerce website published in Google BigQuery. Insights into website performance, user engagement and sales performance are extracted using SQL.
 
-### [🚀 Sales analysis in Adventure Work Cycles - a bicycle manufacturer with SQL](https://github.com/nhu-yen-315/Sales-analysis-in-Adventure-Works-Cycles---a-bicycle-manufacturer-with-SQL)
+### [🚀 Sales analysis in a bicycle manufacturer - Adventure Works with SQL](https://github.com/nhu-yen-315/Sales-analysis-in-Adventure-Works-Cycles---a-bicycle-manufacturer-with-SQL)
 
 
 ## 💻 Tech Stack:
