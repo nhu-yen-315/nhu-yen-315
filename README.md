@@ -17,7 +17,7 @@ This project analyzes data from an e-commerce website published in Google BigQue
 ### [🚀 Sales analysis in a bicycle manufacturer - Adventure Works with SQL](https://github.com/nhu-yen-315/Sales-analysis-in-Adventure-Works-Cycles---a-bicycle-manufacturer-with-SQL)
 This project analyzes sales data in Adventure Works, a bicycle manufacturer and saler, in the period of 2012-2013 using SQL. Then, recommendations on market expansion, product diversification and customer retention strategies are made to improve the sales performance. 
 
-### [🚀 Sales analysis for market expansion in SuperStore, a global retail chain with Power BI](https://github.com/nhu-yen-315/Sales-analysis-for-market-expansion-in-a-global-retail-chain-Superstore-with-Power-BI-)
+### [🚀 Sales analysis for market expansion in SuperStore, a global retail chain with Power BI](https://github.com/nhu-yen-315/Sales-analysis-for-market-expansion-in-a-global-retail-chain-Superstore-with-Power-BI)
 This project builds interactive sales dashboard for SuperStore, a global retail chain, using Power BI. The purpose is to aid high-level managers in making market expansion decisions. 
 
 ## 💻 Tech Stack:
