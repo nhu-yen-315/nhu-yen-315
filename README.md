@@ -20,6 +20,9 @@ This project analyzes sales data in Adventure Works, a bicycle manufacturer and 
 ### [🚀 Sales analysis for market expansion in SuperStore, a global retail chain with Power BI](https://github.com/nhu-yen-315/Sales-analysis-for-market-expansion-in-a-global-retail-chain-Superstore-with-Power-BI)
 This project builds interactive sales dashboard for SuperStore, a global retail chain, using Power BI. The purpose is to aid high-level managers in making market expansion decisions. 
 
+### [🚀 Webscraping LinkedIn job postings with Python and Scrapfly](https://github.com/nhu-yen-315/Web-scraping-LinkedIn-jobs-with-Python-and-Scrapfly)
+We use Python and Scrapfly, a webscraping service, to collect job postings on LinkedIn. The outcome is used in a research project at university.
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
